@@ -1,0 +1,13 @@
+h1 {
+  text-decoration: underline;
+}
+img {
+  width: 300px;
+}
+body {
+  text-align: center;
+  font-family: "sans-serif";
+  font-weight: bold;
+  background: rgb(1, 255, 162);
+  color: rgb(107, 0, 91);
+}
